@@ -2,7 +2,7 @@
 **Project:** Retail Sales & Customer Insights Dashboard  
 **Repo:** retail-sales-insights  
 **Author:** Jayesh Bawankule  
-**Date:** YYYY-MM-DD
+**Date:** 2025-09-16
 
 ---
 
